@@ -4,7 +4,7 @@ function verificaPalindromo(string) {
     
 	console.log(string === string.split('').reverse().join(''));
 }
-verificaPalindromo('amor');
+verificaPalindromo('dor');
 
 // solução 2
 
